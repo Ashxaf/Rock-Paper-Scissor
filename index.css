@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color: black;
+    color: aliceblue;
+    height: 5rem;
+    line-height: 5rem;
+    text-align: center;
+}
+
+.choices{
+
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    height: 100%;
+}
+.choice img:hover{
+    border-radius: 35%;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.choice img{
+    margin-top: 50%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.score-board{
+
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    margin-top: 70px;
+    font-size: 30px;
+    font-weight: bolder ;
+    font-family: "Poppins";
+
+}
+
+.score-board p{
+    text-align: center;
+    width: 100px;
+    margin: 12px;
+    font-size: 35px;
+    background-color: black;
+    color: wheat;
+    border-radius: 30px;
+}
+
+.message{
+
+    font-size: 35px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 60px;
+    line-height: 60px;
+    margin-top: 40px;
+    
+}
