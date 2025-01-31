@@ -22,9 +22,7 @@ A simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.
 - **HTML** for structure  
 - **CSS** for styling  
 - **JavaScript** for game logic  
-
-## 📷 Screenshot  
-*(Add a screenshot of your game here if possible)*  
+ 
 
 ## 🔧 How to Run Locally  
 1. Clone this repository:  
