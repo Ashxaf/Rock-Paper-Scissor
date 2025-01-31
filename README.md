@@ -7,6 +7,7 @@ A simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.
 ✅ **Score Tracking** (User Wins, Computer Wins, Draws)  
 ✅ **Responsive UI**  
 ✅ **Dynamic Game Logic**  
+✅ **Deployed on Vercel**  https://rock-paper-scissor-six-inky.vercel.app/  
 
 ## 📌 How to Play  
 1. Click on **Rock, Paper, or Scissors** to make your move.  
